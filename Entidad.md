@@ -105,3 +105,17 @@ Se desea informatizar la gestión de una empresa de transporte que reparte paque
 
 
 ---
+
+---
+
+<p align="center">
+  <a href="https://github.com/eduardo2006soto-dot/Portafolio_Base_De_Datos/blob/main/README.md">
+    <img src="https://img.shields.io/badge/⬅️_VOLVER_AL_PORTAFOLIO-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Volver al portafolio">
+  </a>
+</p>
+
+<p align="center">
+  <sub>💻 Universidad Nacional de Loja · Carrera de Computación · Base de Datos · 2026</sub>
+</p>
+
+---
