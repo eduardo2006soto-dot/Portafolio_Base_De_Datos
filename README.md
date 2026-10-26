@@ -17,7 +17,7 @@
 
 ### 🧩 Unidad 1 — Fundamentos de Base de Datos
 
-#### ✅ Ejercicios Propuestos
+#### ✅ Ejercicios Propuestos - Entidad, Relación, Atributos y Cardinalidad
 
 En esta sección se presentan los ejercicios desarrollados en clase sobre el diseño de bases de datos y los modelos entidad-relación.
 
