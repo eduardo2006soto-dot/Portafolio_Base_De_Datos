@@ -101,7 +101,8 @@ Se desea informatizar la gestión de una empresa de transporte que reparte paque
   * Una misma mascota de la clínica ha pasado consulta una o más veces en fechas diferentes con varios veterinarios.
   * Al pasar consulta se realiza un diagnóstico.
 * Cada propietario tiene un **familiar de contacto** para casos de emergencia. De este familiar interesa la cédula, nombre y teléfono. Si el propietario se da de alta en la clínica veterinaria, el familiar ya no interesa. El familiar es contacto de un solo propietario.
-<img width="641" height="197" alt="image" src="https://github.com/user-attachments/assets/bc81ba85-a4e8-4682-ae25-243a672891e0" />
+  <img width="1287" height="660" alt="image" src="https://github.com/user-attachments/assets/54c3589b-b379-4b81-becb-c3da8a8a7d95" />
+
 
 
 ---
