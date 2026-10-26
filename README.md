@@ -49,13 +49,13 @@ En esta sección se presentan los ejercicios desarrollados en clase sobre el dis
 
 ---
 
-#### ✅ Ejercicios Propuestos - LENGUAJE SQL
+#### ✅ Ejercicios Propuestos - Lenguaje SQL
 
 En esta sección se presentan los ejercicios desarrollados en clase sobre el diseño de bases de datos y los modelos entidad-relación.
 
 <p align="center">
-  <a href="Modelado_Relacional.md">
-    <img src="https://img.shields.io/badge/📚_VER_EJERCICIOS_DE_MODELADO_RELACIONAL-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Ver ejercicios de Modelado Relacional">
+  <a href="Sql_Unidad1.md">
+    <img src="https://img.shields.io/badge/📚_VER_EJERCICIOS_DE_LENGUAJE_SQL-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Ver ejercicios de Lenguaje SQL">
   </a>
 </p>
 
