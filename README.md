@@ -29,6 +29,20 @@ En esta sección se presentan los ejercicios desarrollados en clase sobre el dis
 
 ---
 
+</p>
+
+---
+
+#### ✅ Ejercicios Propuestos - Modelo Relacional
+
+En esta sección se presentan los ejercicios desarrollados en clase sobre el diseño de bases de datos y los modelos entidad-relación.
+
+<p align="center">
+  <a href="Entidad.md">
+    <img src="https://img.shields.io/badge/📚_VER_EJERCICIOS_DE_ENTIDADES-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Ver ejercicios de entidades">
+  </a>
+</p>
+
 <p align="center">
   💻 <b>Portafolio Académico · 2026</b><br>
   Universidad Nacional de Loja
