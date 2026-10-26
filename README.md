@@ -39,7 +39,7 @@ En esta sección se presentan los ejercicios desarrollados en clase sobre el dis
 
 <p align="center">
   <a href="Modelado_Relacional.md">
-    <img src="https://img.shields.io/badge/📚_VER_EJERCICIOS_DE_ENTIDADES-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Ver ejercicios de Modelado Relacional">
+    <img src="https://img.shields.io/badge/📚_VER_EJERCICIOS_DE_MODELADO_RELACIONAL-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Ver ejercicios de Modelado Relacional">
   </a>
 </p>
 
