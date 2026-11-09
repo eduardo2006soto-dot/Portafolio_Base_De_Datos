@@ -66,7 +66,7 @@ En esta sección se presentan los ejercicios desarrollados en clase sobre el dis
 En esta sección se presentan los ejercicios desarrollados en clase sobre el diseño de bases de datos y los modelos entidad-relación.
 
 <p align="center">
-  <a href="Proyecto.md">
+  <a href="Base_de_datos_U1_final.pdf">
     <img src="https://img.shields.io/badge/📚_VER_Proyecto_Unidad1_SQ-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyecto unidad 1">
   </a>
 </p>
