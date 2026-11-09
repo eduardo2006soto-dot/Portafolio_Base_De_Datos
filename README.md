@@ -59,6 +59,17 @@ En esta sección se presentan los ejercicios desarrollados en clase sobre el dis
   </a>
 </p>
 
+---
+
+#### ✅ Proyecto Unidad 1 - EventPass
+
+En esta sección se presentan los ejercicios desarrollados en clase sobre el diseño de bases de datos y los modelos entidad-relación.
+
+<p align="center">
+  <a href="Proyecto1.md">
+    <img src="https://img.shields.io/badge/📚_VER_Proyecto_Unidad1_SQ-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyecto unidad 1">
+  </a>
+</p>
 <p align="center">
   💻 <b>Portafolio Académico · 2026</b><br>
   Universidad Nacional de Loja
